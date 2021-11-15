@@ -25,7 +25,7 @@ Puedes encontrarme en:
 - [Linkedin](https://www.linkedin.com/in/emanuelgermano/)
 - GMail: emanuelgermano90@gmail.com
 
-##: estrella: Idiomas y herramientas:
+Idiomas y Herramientas:
 
 <p>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
