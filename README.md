@@ -15,8 +15,7 @@ const emanuelGermano = {
     },
   Proyects: [
       {VideoGameApp: ['React', 'Redux', 'HTML', 'CSS', 'NodeJs', 'Express', 'Sequelize', 'PostgreSQL']},
-      {E-CommerceApp: ['React', 'Redux', 'HTML', 'CSS', 'Material UI', 
-                            'NodeJs', 'Express', 'Sequelize', 'PostgreSQL']}
+      {E-CommerceApp: ['React', 'Redux', 'HTML', 'CSS', 'Material UI', 'NodeJs', 'Express', 'Sequelize', 'PostgreSQL']}
     ],
 }
 
