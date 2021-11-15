@@ -1,5 +1,7 @@
 ### Hola, soy Emanuel Germano 👋
 
+<p>Soy una persona colaborativa, responsable y con un gran deseo de crecer en el área de IT, exigiéndome para mejorar mis conocimientos en la programación. Con amplia experiencia en trabajos grupales y también en liderazgo.</p>
+
 ```  JS
 
 const emanuelGermano = {
@@ -21,11 +23,11 @@ const emanuelGermano = {
 
 ```
 
-Puedes encontrarme en:
+### Puedes encontrarme en:
 - [Linkedin](https://www.linkedin.com/in/emanuelgermano/)
 - GMail: emanuelgermano90@gmail.com
 
-Idiomas y Herramientas:
+### Idiomas y Herramientas:
 
 <p>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
