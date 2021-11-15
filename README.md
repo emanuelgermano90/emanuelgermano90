@@ -1,6 +1,6 @@
-### Hola, soy Emanuel Germano 👋
+### <H2 align='Center'>Hola, soy Emanuel Germano 👋</H2>
 
-<p>Soy una persona colaborativa, responsable y con un gran deseo de crecer en el área de IT, exigiéndome para mejorar mis conocimientos en la programación. Con amplia experiencia en trabajos grupales y también en liderazgo.</p>
+<p align='Center'>Soy una persona colaborativa, responsable y con un gran deseo de crecer en el área de IT, exigiéndome para mejorar mis conocimientos en la programación. Con amplia experiencia en trabajos grupales y también en liderazgo.</p>
 
 ```  JS
 
@@ -26,6 +26,10 @@ const emanuelGermano = {
 ### Puedes encontrarme en:
 - [Linkedin](https://www.linkedin.com/in/emanuelgermano/)
 - GMail: emanuelgermano90@gmail.com
+
+![Emanuel Germano GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelgermano90&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelgermano90&layout=compact)](https://github.com/emanuelgermano90/github-readme-stats)
 
 ### Idiomas y Herramientas:
 
