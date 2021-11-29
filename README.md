@@ -47,6 +47,7 @@ const emanuelGermano = {
   <code> <img width = "10%" height = "50px" src = "https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"> </code>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </code>
   <code> <img width = "10%" src = "https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"> </code>
+  <code> <img width = "10%" src = "https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-ar21.svg"> </code>
   <br />
 </p>
 
