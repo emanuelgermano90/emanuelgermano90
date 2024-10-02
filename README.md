@@ -13,7 +13,7 @@ const emanuelGermano = {
           {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
           {Java: ['POO Programacion Orientada a Objetos']},
         ],
-      BaseDatos: ['PostgreSQL', 'MySQL'],
+      BaseDatos: ['PostgreSQL', 'MySQL', 'Firebase'],
       Tools: ['Git', 'Firebase', 'Jenkins', 'SVN', 'SWR', 'Swagger'],
     },
   Proyects: [
@@ -21,7 +21,9 @@ const emanuelGermano = {
     {E-CommerceApp: ['React', 'Redux', 'HTML', 'CSS', 'Material UI', 'NodeJs', 'Express', 'Sequelize', 'PostgreSQL']}
   ],
   Experience: [
-    {Importainer: Diciembre 2021}
+    {CDT: Marzo 2024},
+    {ABSTI: Abril 2023, Febrero 2024},
+    {Importainer: Diciembre 2021, Marzo 2023}
   ],
 }
 
