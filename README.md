@@ -7,13 +7,14 @@
 const emanuelGermano = {
   Skills: {
       FrontEnd: [
-          {JavaScript: ['React', 'React-Native', 'Redux']}
+          {JavaScript: ['React', 'Redux', 'Next', 'React-Native', 'Ionic', 'Bootstrap', 'Tailwind', 'HTML5', 'CSS3']}
         ],
       BackEnd: [
           {JavaScript: ['NodeJs', 'Express', 'Sequelize']},
           {Java: ['POO Programacion Orientada a Objetos']},
         ],
       BaseDatos: ['PostgreSQL', 'MySQL'],
+      Tools: ['Git', 'Firebase', 'Jenkins', 'SVN', 'SWR', 'Swagger'],
     },
   Proyects: [
     {VideoGameApp: ['React', 'Redux', 'HTML', 'CSS', 'NodeJs', 'Express', 'Sequelize', 'PostgreSQL']},
